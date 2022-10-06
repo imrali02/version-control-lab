@@ -2,5 +2,5 @@
 CMPINF001 version control lab
 
 Group Members:
-Owen Capell
-Imran Haidery
+- Owen Capell
+- Imran Haidery
